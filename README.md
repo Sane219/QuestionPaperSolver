@@ -1,7 +1,7 @@
 # Question Paper Chatbot  
 
 ## Overview  
-This project processes **question papers from images**, extracts text using **OCR (Tesseract)**, and generates **answers** using a language model. It also predicts **possible future questions** based on the extracted content.  
+This project processes **question papers from images**, extracts text using **OCR (Tesseract)**, and generates **answers** using a language model. It also predicts **possible future questions** based on the extracted content. This model uses free api from flan which may lead to incorrect answers and will limit the wordcount so if you have any openai API kindly use that.
 
 ## Features  
 - Extracts text from **scanned question papers**  
