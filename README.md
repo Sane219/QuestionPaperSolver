@@ -65,8 +65,3 @@ Get a token from [Hugging Face](https://huggingface.co/settings/tokens).
 3. What is the Backpropagation Algorithm?  
 ```
 
-## Contributing  
-Fork the repository, make your changes, and submit a pull request.  
-
-## License  
-MIT License  
